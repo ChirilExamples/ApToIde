@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppToIde</string>
+    <string name="action_read_article">"Read article"</string>
+    <string name="action_open_more">"Open more of "</string>
+    <string name="action_open_details">"Open Detailed information about "</string>
+    <string name="action_read_card">"Check details about "</string>
+</resources>
